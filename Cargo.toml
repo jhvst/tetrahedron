@@ -1,0 +1,8 @@
+[package]
+name = "tetrahedron"
+version = "0.1.0"
+authors = ["Juuso Haavisto <juuso@mail.com>"]
+edition = "2018"
+
+[dependencies]
+openvr = "0.6.0"
